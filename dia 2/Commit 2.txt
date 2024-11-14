@@ -1,1 +1,0 @@
-Atualizando repositório após ter subido para o GitHub usando git.
